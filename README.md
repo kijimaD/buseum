@@ -20,6 +20,10 @@ binary collections.
 |----------------------------------|
 | ![image](./ja_shift_jis/bin.png) |
 
+| [en_utf8](./en_utf8)   |
+|----------------------------------|
+| ![image](./en_utf8/bin.png) |
+
 ## generate
 
 ```
